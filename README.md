@@ -1,6 +1,6 @@
 # educ_app
 
-A new Flutter application.
+Beta Test of Educ_App
 
 ## Getting Started
 
